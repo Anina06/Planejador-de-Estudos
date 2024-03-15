@@ -1,0 +1,11 @@
+O logaritmo é uma operação matemática diretamente relacionada com as equações exponenciais. Nele buscamos encontrar o expoente que faz com a base seja igual ao que chamamos de logaritmando.
+
+Na prática estamos resolvendo equações exponencias, entretanto, com essa operação surgem propriedades importantes que auxiliam nas resoluções. Para resolver um logaritmo, é essencial o domínio da operação e das propriedades existentes para ele, as quais são muito parecidas com as propriedades das potências. Para que essa operação seja bem definida, existem algumas restrições para o valor da base e do logaritmando chamadas de condição de existência. 
+Condição de existência
+Para definirmos bem o logaritmo, há algumas restrições sobre os valores da base e do logaritmando. A base de um logaritmo sempre deve ser um número positivo e diferente de 1, e o logaritmando deve ser sempre um número positivo. De forma algébrica, temos que:
+
+logba
+
+Em que a e b são números reais, tal que: a > 0 e b > 0 e b ≠ 1.
+Como resolver um logaritmo
+Existem aqueles logaritmos possíveis de resolver-se de forma direta, apenas com a definição, como fizemos no exemplo anterior. No entanto, resolver logaritmos também exige domínio de equações exponencias, além disso, quando for necessário, deve-se realizar a consulta da tabela de logaritmos decimais para saber o valor de logaritmos que não conseguimos calcular com base em uma equação exponencial.

@@ -1,0 +1,13 @@
+Sujeito e predicado são os termos essenciais da oração. Enquanto o sujeito é aquele ou aquilo de que(m) se fala, o predicado é a informação dada sobre o sujeito.
+
+Uma forma fácil de detectar esses termos nas orações é perguntando quem? e/ou o que?
+
+Exemplo 1: Os estudantes organizaram a homenagem.
+
+Quem organizou a homenagem? Os estudantes, logo esse é o sujeito da oração.
+O que foi feito? Organizaram a homenagem, logo esse é o predicado da oração.
+
+Exemplo 2: O discurso foi modificado.
+
+Quem/o que foi modificado? O discurso, logo esse é o sujeito da oração.
+O que foi feito? Foi modificado, logo esse é o predicado da oração.
